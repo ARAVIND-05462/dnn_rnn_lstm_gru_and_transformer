@@ -1,0 +1,40 @@
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+!.env.template
+secrets/
+credentials/
+*.pem
+*.key
+
+# Local datasets and trained model artifacts
+data/
+datasets/
+**/data/
+**/datasets/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+
+# Python environments, caches, and build output
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Logs and operating-system/editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
