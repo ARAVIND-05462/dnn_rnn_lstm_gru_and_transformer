@@ -1,0 +1,16 @@
+problem,model,seed,seq_len,test_acc,macro_f1,test_mse,params,sec_per_epoch,val_loss_nats,bits_per_char,notes
+P2,Transformer-HAR-none,42,128,0.8937902952154734,0.8915589124715924,,398982.0,56.65886799149998,0.664725876642125,,Task A positional=none; best_val_macro_f1=0.885837
+P2,Transformer-HAR-none,123,128,0.8771632168306752,0.8755395400641209,,398982.0,46.973799295999996,0.15718611276575498,,Task A positional=none; best_val_macro_f1=0.965032
+P2,Transformer-HAR-none,2026,128,0.8948082796063793,0.8941388844027403,,398982.0,37.79578321249996,0.12457034446713587,,Task A positional=none; best_val_macro_f1=0.982936
+P2,Transformer-HAR-sinusoidal,42,128,0.8965049202578894,0.8952767216515233,,398982.0,36.01513768329998,0.5503315966203809,,Task A positional=sinusoidal; best_val_macro_f1=0.891270
+P2,Transformer-HAR-sinusoidal,123,128,0.8954869358669834,0.8947712440924014,,398982.0,40.599820749999935,0.15535755701117462,,Task A positional=sinusoidal; best_val_macro_f1=0.944821
+P2,Transformer-HAR-sinusoidal,2026,128,0.8965049202578894,0.8958363292339846,,398982.0,39.03486908749996,0.1615178214330306,,Task A positional=sinusoidal; best_val_macro_f1=0.981694
+P2,Transformer-HAR-learned,42,128,0.8751272480488632,0.8739177526805292,,415494.0,33.79925206239991,0.5720215436390468,,Task A positional=learned; best_val_macro_f1=0.876569
+P2,Transformer-HAR-learned,123,128,0.8839497794367153,0.8829507515980194,,415494.0,35.91793881670005,0.1923196975673948,,Task A positional=learned; best_val_macro_f1=0.953408
+P2,Transformer-HAR-learned,2026,128,0.8961655921275874,0.8960340021746692,,415494.0,34.49421464999996,0.18230364002956984,,Task A positional=learned; best_val_macro_f1=0.977834
+P2,TinyShakespeare-Transformer,42,128,,,,818048.0,,2.4512471175193786,3.536402060438574,"Task B d=128, heads=4, layers=4, epochs=5"
+P2,TinyShakespeare-heads-1,42,128,,,,818048.0,,2.612609558105469,,Task 5(b) head-count ablation
+P2,TinyShakespeare-heads-4,42,128,,,,818048.0,,2.607138259410858,,Task 5(b) head-count ablation
+P2,TinyShakespeare-heads-8,42,128,,,,818048.0,,2.6060094738006594,,Task 5(b) head-count ablation
+P2,TinyShakespeare-causal-mask,42,128,,,,818048.0,,2.555872836112976,3.687345065803001,Task 5(c) causal-mask ablation
+P2,TinyShakespeare-no-causal-mask,42,128,,,,818048.0,,2.5568965339660643,3.68882194961902,Task 5(c) causal-mask ablation

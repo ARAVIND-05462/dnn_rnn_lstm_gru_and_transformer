@@ -1,0 +1,44 @@
+
+--- temperature=0.2 ---
+ROMEO:
+The the the there the the the the are the the there are the the the the thare the the wis the the the the the the the the the the the the thathere the s the there the an the the the the the the se the the the the the the the tho the the athathe the the the the ar are the the se the the se the the the the an there the sthe the the tho the the the the the the the the the the se wiso the the the an athe the an the the the the an the the the the athe the se the the the wathe se athe the the an the 
+
+--- temperature=0.8 ---
+ROMEO:
+Thof thay, sours pooures wal ame t thisithicerd,
+Matheas ndis be, fred be pre th, cou he t s her:
+I coo aneruee, p, miswe, thoun s'los gorach thavoa thotoursathisin ballleathilal.
+
+
+
+
+BELES:
+The I haplict lo t f s chereris s tids an are l sthos fof therolloreplfod s try apanchithasen:
+Won an apeste ceared heve thirainshot pe te,
+Teeafo hea the ce t hauffr aro s s the,,
+Shiristh highe wnd pance we e te non tsisthitouly a adepe,
+Swe, asthat nomagnto gourenerind d hane hofore, ois ant to be wrd, e
+
+--- temperature=1.5 ---
+ROMEO:
+Andde, ies, asete thawond sphotofis brep
+R lveernco s p
+
+Th.
+Tiouds, cakiror ye finseeaveatheeracy'distlch in daat, ceters.
+OLA:
+Tereicastakersou m.
+Whasce,
+My, heris, frceafat san' hep owizora ansshepunyeaarap guntu hou, tharats acherdou ce ncnlt the
+Hisabyor' lat caser,
+FRof ake te y: taftand heyot,
+tsit tt t llur paw.
+Myo h hors, oteale's;
+Non lff; hef pes; orse ay's Isenen, ithyoroveelthan wean t or ak,
+Nout I rnnfeacht fio caytt on'lomes.
+DILOMaso ow mat
+
+IUSCIINGer,
+S:
+NAnd mpury t yoy,
+C
